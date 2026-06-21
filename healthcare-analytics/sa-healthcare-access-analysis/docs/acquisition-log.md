@@ -63,3 +63,26 @@ Unknown
 Purpose:
 Spatial and geographic analysis
 
+
+---
+
+## Dataset 1
+
+Dataset Name:
+District Health Barometer Profiles 2024/2025
+
+Source:
+Health Systems Trust
+
+Format:
+PDF
+
+Status:
+Acquired
+
+Location:
+data/raw/health-performance/District-Health-Barometer-Profiles-2024_2025.pdf
+
+Purpose:
+District and provincial healthcare performance analysis across South Africa.
+
